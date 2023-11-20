@@ -1,0 +1,516 @@
+[
+  {
+    "name": "Ahmad Ali",
+    "email": "ahmad.ali@generalphysio.com",
+    "password": "passA123",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/doctor1.png",
+    "speciality": "General physician",
+    "degree": "MBBS, MPH",
+    "experience": "1 Year",
+    "about": "Dr. Ahmad Ali specializes in primary care and excels at diagnosing common illnesses.",
+    "available": true,
+    "fees": 100,
+    "address": {
+      "line1": "123 Health St.",
+      "line2": "City Hospital, Building A"
+    }
+  },
+  {
+    "name": "Ali Mohamed",
+    "email": "Ali.mohamed@generalphysio.com",
+    "password": "passS234",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/doctor2.png",
+    "speciality": "General physician",
+    "degree": "MBBS, DGM",
+    "experience": "2 Years",
+    "about": "Dr. Ali Mohamed is an expert in preventive medicine and patient health education.",
+    "available": true,
+    "fees": 120,
+    "address": {
+      "line1": "456 Care Ave.",
+      "line2": "Wellness Center, Floor 2"
+    }
+  },
+  {
+    "name": "Mahmoud Hassan",
+    "email": "mahmoud.hassan@generalphysio.com",
+    "password": "passM345",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/doctor3.png",
+    "speciality": "General physician",
+    "degree": "MBBS, CCFP",
+    "experience": "3 Years",
+    "about": "Dr. Mahmoud Hassan focuses on chronic disease management with attentive care.",
+    "available": true,
+    "fees": 140,
+    "address": {
+      "line1": "789 Wellness Blvd.",
+      "line2": "General Clinic, Room 5"
+    }
+  },
+
+  {
+    "name": "Khaled Youssef",
+    "email": "khaled.youssef@generalphysio.com",
+    "password": "passK567",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/doctor5.png",
+    "speciality": "General physician",
+    "degree": "MBBS, DO",
+    "experience": "5 Years",
+    "about": "Dr. Khaled Youssef specializes in diagnosing and treating minor emergency cases.",
+    "available": false,
+    "fees": 180,
+    "address": {
+      "line1": "654 Acute Care Ln.",
+      "line2": "Emergency Unit, Block C"
+    }
+  },
+  {
+    "name": "Omar Abdullah",
+    "email": "omar.abdullah@generalphysio.com",
+    "password": "passO789",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/doctor7.png",
+    "speciality": "General physician",
+    "degree": "MBBS, FCFP",
+    "experience": "7 Years",
+    "about": "Dr. Omar Abdullah is adept at diagnosing and managing common digestive disorders.",
+    "available": true,
+    "fees": 220,
+    "address": {
+      "line1": "159 Digestive Ave.",
+      "line2": "Clinic B, Room 12"
+    }
+  },
+  
+  {
+    "name": "Sami Fawzy",
+    "email": "sami.fawzy@generalphysio.com",
+    "password": "passS901",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/doctor9.png",
+    "speciality": "General physician",
+    "degree": "MBBS, FRCPC",
+    "experience": "9 Years",
+    "about": "Dr. Sami Fawzy is an expert in managing chronic respiratory conditions.",
+    "available": true,
+    "fees": 260,
+    "address": {
+      "line1": "852 Respiratory St.",
+      "line2": "Respiratory Clinic, Suite 4"
+    }
+  },
+  {
+    "name": "Ahmed Farouq",
+    "email": "ahmed.farouq@gyneco.com",
+    "password": "passA123",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/gyneco1.png",
+    "speciality": "Gynecologist",
+    "degree": "MBBS, MS (Obs & Gyn)",
+    "experience": "3 Years",
+    "about": "Dr. Ahmed Farouq is a skilled gynecologist with a focus on minimally invasive obstetric procedures.",
+    "available": true,
+    "fees": 210,
+    "address": {
+      "line1": "100 Women’s Health Rd.",
+      "line2": "City Maternity Center, Floor 3"
+    }
+  },
+  {
+    "name": "Kareem Hassan",
+    "email": "kareem.hassan@gyneco.com",
+    "password": "passK234",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/gyneco2.png",
+    "speciality": "Gynecologist",
+    "degree": "MBBS, MS (Obs & Gyn)",
+    "experience": "5 Years",
+    "about": "Dr. Kareem Hassan specializes in high‑risk pregnancy management and prenatal diagnostics.",
+    "available": false,
+    "fees": 230,
+    "address": {
+      "line1": "200 Prenatal Blvd.",
+      "line2": "Maternal Care Wing, Suite 7"
+    }
+  },
+  {
+    "name": "Youssef Mansour",
+    "email": "youssef.mansour@gyneco.com",
+    "password": "passY345",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/gyneco3.png",
+    "speciality": "Gynecologist",
+    "degree": "MBBS, MRCOG",
+    "experience": "4 Years",
+    "about": "Dr. Youssef Mansour is expert in fetal medicine and ultrasound‑guided interventions.",
+    "available": true,
+    "fees": 220,
+    "address": {
+      "line1": "150 Fetal Care St.",
+      "line2": "Diagnostic Clinic, Room 12"
+    }
+  },
+  {
+    "name": "Tarek Abdullah",
+    "email": "tarek.abdullah1@gyneco.com",
+    "password": "passT456",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/gyneco4.png",
+    "speciality": "Gynecologist",
+    "degree": "MBBS, FRCOG",
+    "experience": "6 Years",
+    "about": "Dr. Tarek Abdullah focuses on advanced laparoscopic gynecologic surgery.",
+    "available": true,
+    "fees": 240,
+    "address": {
+      "line1": "300 Laparoscopy Ave.",
+      "line2": "Surgical Center, Block B"
+    }
+  },
+{
+    "name": "Samir Mostafa",
+    "email": "samir.mostafa@gyneco.com",
+    "password": "passS678",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/gyneco6.png",
+    "speciality": "Gynecologist",
+    "degree": "MBBS, DNB (Obs & Gyn)",
+    "experience": "8 Years",
+    "about": "Dr. Samir Mostafa is renowned for his patient‑centered approach in obstetrics and gynecology.",
+    "available": true,
+    "fees": 260,
+    "address": {
+      "line1": "500 Obstetrics Ln.",
+      "line2": "Women’s Care Hospital, Wing D"
+    }
+  },
+   {
+    "name": "Bassam El-Sayed",
+    "email": "bassam.elsayed@derma.com",
+    "password": "passB123",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/derma1.png",
+    "speciality": "Dermatologist",
+    "degree": "MBBS, DDV",
+    "experience": "4 Years",
+    "about": "Dr. Bassam El-Sayed specializes in acne management and non-invasive skin treatments.",
+    "available": true,
+    "fees": 160,
+    "address": {
+      "line1": "20 Skin Care St.",
+      "line2": "Dermatology Center, Floor 2"
+    }
+  },
+  {
+    "name": "Ziad Nabil",
+    "email": "ziad.nabil@derma.com",
+    "password": "passZ234",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/derma2.png",
+    "speciality": "Dermatologist",
+    "degree": "MBBS, MRCP (Dermatology)",
+    "experience": "6 Years",
+    "about": "Dr. Ziad Nabil has expertise in laser therapy and cosmetic dermatology procedures.",
+    "available": false,
+    "fees": 180,
+    "address": {
+      "line1": "35 Laser Blvd.",
+      "line2": "Skin Renewal Clinic, Suite 5"
+    }
+  },
+  {
+    "name": "Faisal Adel",
+    "email": "faisal.adel@derma.com",
+    "password": "passF345",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/derma3.png",
+    "speciality": "Dermatologist",
+    "degree": "MBBS, DDV, MBA (Healthcare)",
+    "experience": "5 Years",
+    "about": "Dr. Faisal Adel focuses on cosmetic dermatology and advanced anti-aging treatments.",
+    "available": true,
+    "fees": 200,
+    "address": {
+      "line1": "55 Aesthetics Ave.",
+      "line2": "Cosmetic Skin Center, Wing A"
+    }
+  },
+  {
+    "name": "Nabil Hussein",
+    "email": "nabil.hussein@derma.com",
+    "password": "passN456",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/derma4.png",
+    "speciality": "Dermatologist",
+    "degree": "MBBS, FRCP (Dermatology)",
+    "experience": "7 Years",
+    "about": "Dr. Nabil Hussein is skilled in treating psoriasis and chronic skin conditions.",
+    "available": true,
+    "fees": 170,
+    "address": {
+      "line1": "80 Psoriasis Rd.",
+      "line2": "Chronic Skin Clinic, Room 3"
+    }
+  },
+  {
+    "name": "Rashid Mansour",
+    "email": "rashid.mansour1@derma.com",
+    "password": "passR567",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/derma5.png",
+    "speciality": "Dermatologist",
+    "degree": "MBBS, DNB (Dermatology)",
+    "experience": "8 Years",
+    "about": "Dr. Rashid Mansour specializes in dermatologic surgery and mole excisions.",
+    "available": false,
+    "fees": 210,
+    "address": {
+      "line1": "120 Surgical Ln.",
+      "line2": "Skin Surgery Unit, Block B"
+    }
+  },
+  {
+    "name": "Farid Sami",
+    "email": "farid.sami@derma.com",
+    "password": "passF678",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/derma6.png",
+    "speciality": "Dermatologist",
+    "degree": "MBBS, MD (Dermatology)",
+    "experience": "9 Years",
+    "about": "Dr. Farid Sami is known for his work in phototherapy and vitiligo management.",
+    "available": true,
+    "fees": 230,
+    "address": {
+      "line1": "135 Light Therapy Rd.",
+      "line2": "Phototherapy Center, Floor 1"
+    }
+  },
+  {
+    "name": "Zain Mahmood",
+    "email": "zain.mahmood1@derma.com",
+    "password": "passZ789",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/derma7.png",
+    "speciality": "Dermatologist",
+    "degree": "MBBS, FAAD",
+    "experience": "10 Years",
+    "about": "Dr. Zain Mahmood is a board‑certified dermatologist specializing in skin cancer screening.",
+    "available": true,
+    "fees": 250,
+    "address": {
+      "line1": "160 Oncology Ave.",
+      "line2": "Skin Cancer Screening Clinic, Suite 8"
+    }
+  },
+   {
+    "name": "Omar Khalid",
+    "email": "omar.khalid1@pediatrics.com",
+    "password": "omarP123",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/pedia1.png",
+    "speciality": "Pediatricians",
+    "degree": "MBBS, MD (Pediatrics)",
+    "experience": "3 Years",
+    "about": "Dr. Omar Khalid specializes in neonatal care and developmental pediatrics.",
+    "available": true,
+    "fees": 130,
+    "address": {
+      "line1": "10 Little Ones Ave.",
+      "line2": "Children’s Clinic, Floor 1"
+    }
+  },
+  {
+    "name": "Youssef Nader",
+    "email": "youssef.nader@pediatrics.com",
+    "password": "youssefP234",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/pedia2.png",
+    "speciality": "Pediatricians",
+    "degree": "MBBS, DCH",
+    "experience": "5 Years",
+    "about": "Dr. Youssef Nader focuses on pediatric infectious diseases and immunization.",
+    "available": false,
+    "fees": 150,
+    "address": {
+      "line1": "25 Growth St.",
+      "line2": "Immunization Center, Suite 3"
+    }
+  },
+  {
+    "name": "Tariq Salman",
+    "email": "tariq.salman@pediatrics.com",
+    "password": "tariqP345",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/pedia3.png",
+    "speciality": "Pediatricians",
+    "degree": "tariqP345",
+    "experience": "4 Years",
+    "about": "Dr. Tariq Salman is expert in pediatric cardiology screening.",
+    "available": true,
+    "fees": 170,
+    "address": {
+      "line1": "50 Heartbeat Rd.",
+      "line2": "Cardio Pediatric Unit, Room 2"
+    }
+  },
+  {
+    "name": "Nader Karim",
+    "email": "nader.karim@pediatrics.com",
+    "password": "naderP456",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/pedia4.png",
+    "speciality": "Pediatricians",
+    "degree": "MBBS, MD (Pediatrics)",
+    "experience": "6 Years",
+    "about": "Dr. Nader Karim provides comprehensive care for chronic pediatric asthma.",
+    "available": true,
+    "fees": 190,
+    "address": {
+      "line1": "75 Breathing Blvd.",
+      "line2": "Respiratory Children’s Clinic, Suite 5"
+    }
+  },
+  {
+    "name": "Rami Hussein",
+    "email": "rami.hussein1@pediatrics.com",
+    "password": "ramiP567",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/pedia5.png",
+    "speciality": "Pediatricians",
+    "degree": "MBBS, DNB (Pediatrics)",
+    "experience": "7 Years",
+    "about": "Dr. Rami Hussein is renowned for his work in pediatric neurology and epilepsy management.",
+    "available": false,
+    "fees": 210,
+    "address": {
+      "line1": "100 Brainwave St.",
+      "line2": "Neuro Pediatric Center, Block C"
+    }
+  },
+   {
+    "name": "Karim Saleh",
+    "email": "karim.saleh@neurocare.com",
+    "password": "karimN123",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/neuro1.png",
+    "speciality": "Neurologist",
+    "degree": "MBBS, DM (Neurology)",
+    "experience": "4 Years",
+    "about": "Dr. Karim Saleh specializes in epilepsy management and neurophysiological diagnostics.",
+    "available": true,
+    "fees": 220,
+    "address": {
+      "line1": "10 Brain Health Ave.",
+      "line2": "Neuro Diagnostics Center, Floor 2"
+    }
+  },
+  {
+    "name": "Tarek Nour",
+    "email": "tarek.nour@neurocare.com",
+    "password": "tarekN234",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/neuro2.png",
+    "speciality": "Neurologist",
+    "degree": "MBBS, FRCP (Neurology)",
+    "experience": "6 Years",
+    "about": "Dr. Tarek Nour focuses on movement disorders and deep brain stimulation therapies.",
+    "available": false,
+    "fees": 240,
+    "address": {
+      "line1": "25 Movement St.",
+      "line2": "Parkinson’s Clinic, Suite 5"
+    }
+  },
+  {
+    "name": "Walid Mansour",
+    "email": "walid.mansour1@neurocare.com",
+    "password": "walidN345",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/neuro3.png",
+    "speciality": "Neurologist",
+    "degree": "MBBS, DNB (Neurology)",
+    "experience": "5 Years",
+    "about": "Dr. Walid Mansour is expert in stroke recovery protocols and vascular neurology.",
+    "available": true,
+    "fees": 230,
+    "address": {
+      "line1": "50 Stroke Recovery Rd.",
+      "line2": "Vascular Neuro Center, Room 3"
+    }
+  },
+  {
+    "name": "Samir Nabil",
+    "email": "samir.nabil@neurocare.com",
+    "password": "samirN456",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/neuro4.png",
+    "speciality": "Neurologist",
+    "degree": "MBBS, MD (Neuroscience)",
+    "experience": "8 Years",
+    "about": "Dr. Samir Nabil works in neurodegenerative diseases and cognitive rehabilitation.",
+    "available": true,
+    "fees": 260,
+    "address": {
+      "line1": "75 Cognitive Therapy Ln.",
+      "line2": "Neurodegeneration Unit, Block A"
+    }
+  },
+  {
+    "name": "Hassan Adel",
+    "email": "hassan.adel1@gastro.com",
+    "password": "passH123",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/gastro1.png",
+    "speciality": "Gastroenterologist",
+    "degree": "MBBS, MD (Gastroenterology)",
+    "experience": "3 Years",
+    "about": "Dr. Hassan Adel specializes in endoscopic procedures and early detection of gastrointestinal diseases.",
+    "available": true,
+    "fees": 200,
+    "address": {
+      "line1": "10 Digestive St.",
+      "line2": "Gastro Clinic, Floor 1"
+    }
+  },
+  {
+    "name": "Mahmoud Zaki",
+    "email": "mahmoud.zaki1@gastro.com",
+    "password": "passM234",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/gastro2.png",
+    "speciality": "Gastroenterologist",
+    "degree": "MBBS, DNB (Gastroenterology)",
+    "experience": "5 Years",
+    "about": "Dr. Mahmoud Zaki focuses on management of inflammatory bowel disease and nutritional therapy.",
+    "available": false,
+    "fees": 220,
+    "address": {
+      "line1": "25 Endoscopy Rd.",
+      "line2": "Endoscopy Center, Suite 3"
+    }
+  },
+  {
+    "name": "Omar Amin",
+    "email": "omar.amin@gastro.com",
+    "password": "passO345",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/gastro3.png",
+    "speciality": "Gastroenterologist",
+    "degree": "MBBS, DM (Hepatology)",
+    "experience": "4 Years",
+    "about": "Dr. Omar Amin is expert in liver disease management and advanced hepatic diagnostics.",
+    "available": true,
+    "fees": 210,
+    "address": {
+      "line1": "50 Liver Lane",
+      "line2": "Hepatic Health Center, Room 2"
+    }
+  },
+  {
+    "name": "Yasir Khalid",
+    "email": "yasir.khalid@gastro.com",
+    "password": "passY456",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/gastro4.png",
+    "speciality": "Gastroenterologist",
+    "degree": "MBBS, MRCP (Gastroenterology)",
+    "experience": "6 Years",
+    "about": "Dr. Yasir Khalid specializes in diagnostic and therapeutic colonoscopy.",
+    "available": true,
+    "fees": 240,
+    "address": {
+      "line1": "75 GI Blvd.",
+      "line2": "Colon Care Unit, Suite 5"
+    }
+  },
+  {
+    "name": "Ibrahim Fathy",
+    "email": "ibrahim.fathy@gastro.com",
+    "password": "passI567",
+    "image": "https://res.cloudinary.com/demo/image/upload/v0000000000/gastro5.png",
+    "speciality": "Gastroenterologist",
+    "degree": "MBBS, FRCP (Gastroenterology)",
+    "experience": "7 Years",
+    "about": "Dr. Ibrahim Fathy is renowned for his expertise in pancreatic and biliary disorders.",
+    "available": false,
+    "fees": 260,
+    "address": {
+      "line1": "100 Intestinal Ave.",
+      "line2": "Pancreatic Care Clinic, Floor 2"
+    }
+  }
+]
