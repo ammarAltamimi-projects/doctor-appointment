@@ -88,10 +88,8 @@ Try it live here:
 ## 🔗 Contact
 
 <p align="center">
-  <a href="https://www.instagram.com/ar_506_/"><img src="https://img.shields.io/badge/Instagram-@ar_506_-E4405F?logo=instagram&style=flat-square" alt="Instagram" /></a>
   <a href="https://github.com/ammarAltamimi-projects"><img src="https://img.shields.io/badge/GitHub-ammarAltamimi--projects-181717?logo=github&style=flat-square" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/ammar-attamimi-9884512a4/"><img src="https://img.shields.io/badge/LinkedIn-Ammar%20Altamimi-0A66C2?logo=linkedin&style=flat-square" alt="LinkedIn" /></a>
-  <a href="https://x.com/ammarAltamimi"><img src="https://img.shields.io/badge/Twitter-@ammarAltamimi-1DA1F2?logo=twitter&style=flat-square" alt="Twitter" /></a>
 </p>
 
 <p align="center">Made with ❤️ by <strong>Ammar Altamimi</strong></p>
