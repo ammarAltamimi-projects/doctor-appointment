@@ -81,7 +81,7 @@ It includes:
 ## 🚀 Live Demo
 
 Try it live here:  
-👉 [**Doctor Appointment Demo on Render**](https://doctor-appointment-mocha.vercel.app/)
+👉 [**Doctor Appointment Demo**](https://www.doctorvisit.app)
 
 ---
 
